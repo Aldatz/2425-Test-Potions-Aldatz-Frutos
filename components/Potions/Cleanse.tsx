@@ -1,5 +1,3 @@
-
-import EffectArray from '../../interfaces/EffectArray';
 class Cleanse {
 
     _id: string;

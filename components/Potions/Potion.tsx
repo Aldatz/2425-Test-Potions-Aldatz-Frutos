@@ -298,7 +298,7 @@ function effectsMatch(curseEffects: string[], ingredientEffects: string[]): bool
     );
 }
 
-function  categorizeEffect(str: string) {
+export function categorizeEffect(str: string) {
 
     console.log(str);
     str = str.replace('hit_points', 'hitpoints');
