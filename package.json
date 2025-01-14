@@ -1,0 +1,27 @@
+{
+  "name": "2425-test-potions-aldatz-frutos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldatz/2425-Test-Potions-Aldatz-Frutos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aldatz/2425-Test-Potions-Aldatz-Frutos/issues"
+  },
+  "homepage": "https://github.com/Aldatz/2425-Test-Potions-Aldatz-Frutos#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "mongoose": "^8.9.5"
+  }
+}
